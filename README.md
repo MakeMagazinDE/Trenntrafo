@@ -1,6 +1,7 @@
-[GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
+![GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
 
 Maker Media GmbH
+
 
 ![Aufmacher](https://github.com/MakeMagazinDE/Trenntrafo/blob/main/aufm_gh.jpg)
 
