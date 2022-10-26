@@ -15,4 +15,4 @@ Maker Media GmbH
 Reparatur und Test von Geräten für erhöhte Sicherheit sorgt. Mit Geschick
 und Sorgfalt lässt sich solch ein essentielles Gerät auch selbst bauen.**
 
-Das [Layout der Platine](https://github.com/MakeMagazinDE/Trenntrafo/blob/main/Trenntrafo_Einschaltverzoegerung_V1.lay6) wurde mit dem Programm Sprint Layout 6 entwickelt. Zum Ansehen und Ausdrucken der Datei nutzen Sie bitte den kostenlosen [Viewer des Herstellers Abacom](https://www.electronic-software-shop.com/support/kostenlose-datei-viewer/).
+Das Layout der Platine [Trenntrafo_Einschaltverzoegerung_V1.lay6](https://github.com/MakeMagazinDE/Trenntrafo/blob/main/Trenntrafo_Einschaltverzoegerung_V1.lay6) wurde mit dem Programm **Sprint Layout 6** entwickelt. Zum Ansehen und Ausdrucken der Datei nutzen Sie bitte den kostenlosen [Viewer des Herstellers Abacom](https://www.electronic-software-shop.com/support/kostenlose-datei-viewer/).
