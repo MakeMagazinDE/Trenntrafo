@@ -1,2 +1,15 @@
+[GitHub Logo](http://www.heise.de/make/icons/make_logo.png)
+
+Maker Media GmbH
+
+![Aufmacher](https://github.com/MakeMagazinDE/Solder-Paste-Dispenser/blob/main/cnc1610_s.JPG)
+
 # Trenntrafo
-Stell-Trenntransformator im Eigenbau
+
+### Stell-Trenntransformator im Eigenbau
+
+### von Hans Borngräber
+
+**Zum festen Inventar jeder Elektro-Werkstatt gehört ein Trenntrafo, der bei
+Reparatur und Test von Geräten für erhöhte Sicherheit sorgt. Mit Geschick
+und Sorgfalt lässt sich solch ein essentielles Gerät auch selbst bauen.**
