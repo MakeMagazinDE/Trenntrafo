@@ -2,7 +2,7 @@
 
 Maker Media GmbH
 
-![Aufmacher](https://github.com/MakeMagazinDE/Solder-Paste-Dispenser/blob/main/cnc1610_s.JPG)
+![Aufmacher](https://github.com/MakeMagazinDE/Trenntrafo/blob/main/aufm_gh.jpg)
 
 # Trenntrafo
 
